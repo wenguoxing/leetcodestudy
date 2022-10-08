@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="D:/temp/leetcode/leetcode/editor/cn/[1051]高度检查器.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="D:/temp/leetcode/leetcode/editor/cn/doc/content/[1051]高度检查器.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1051" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="D:/temp/leetcode/leetcode/editor/cn/[1051]高度检查器.java" />
+              <option name="titleSlug" value="height-checker" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
